@@ -1,0 +1,11 @@
+log_level,log_entry
+INFO,17/06/09 16:23:54 INFO executor.Executor: Running task 2.0 in stage 338.0 (TID 14242)
+INFO,17/06/07 15:11:43 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 5807
+INFO,17/06/08 20:55:23 INFO storage.BlockManager: Found block rdd_19100_9 locally
+INFO,17/06/09 10:16:02 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1
+INFO,17/06/09 13:30:55 INFO broadcast.TorrentBroadcast: Reading broadcast variable 15442 took 5 ms
+INFO,17/06/06 21:57:43 INFO storage.BlockManager: Found block rdd_2_14 locally
+INFO,17/06/07 15:51:52 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1
+INFO,17/06/09 19:12:58 INFO mapred.SparkHadoopMapRedUtil: attempt_201706091907_0192_m_000009_8215: Committed
+INFO,17/06/10 15:16:41 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 5220
+INFO,17/06/09 21:55:15 INFO output.FileOutputCommitter: Saved output of task 'attempt_201706092155_5342_m_000017_214974' to hdfs://10.10.34.11:9000/pjhe/test/12/_temporary/0/task_201706092155_5342_m_000017
